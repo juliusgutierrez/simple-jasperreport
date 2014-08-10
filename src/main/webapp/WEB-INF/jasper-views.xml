@@ -4,6 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <!--bookreport bean: the book object from parameter map from controller is pass to bookreport.jrxml-->
     <bean id="bookreport"
           class="org.springframework.web.servlet.view.jasperreports.JasperReportsPdfView"
           p:url="classpath:jrxml/bookreport.jrxml"

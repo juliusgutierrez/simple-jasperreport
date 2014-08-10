@@ -1,24 +1,13 @@
-package com.jasper.dto;
-
-import org.springframework.stereotype.Component;
+package com.jasper.model;
 
 /**
- * Created by Julius on 8/7/14.
+ * Created by Julius on 8/10/14.
  */
-@Component
-public class BookDTO {
+public class Book {
 
     private long id;
     private String name;
     private String bookref;
-
-    public BookDTO() {};
-
-    public BookDTO(long id, String name, String bookref) {
-        this.id = id;
-        this.name = name;
-        this.bookref = bookref;
-    }
 
     public long getId() {
         return id;

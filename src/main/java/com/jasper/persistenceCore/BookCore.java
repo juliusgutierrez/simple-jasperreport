@@ -1,12 +1,14 @@
 package com.jasper.persistenceCore;
 
-import com.jasper.dto.BookDTO;
-import java.util.*;
+
+import com.jasper.model.Book;
+
+import java.util.List;
 
 /**
  * Created by Julius on 8/7/14.
  */
 public interface BookCore {
 
-    List<BookDTO> getAllBook();
+    List<Book> getAllBook();
 }
