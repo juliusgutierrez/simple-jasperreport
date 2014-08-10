@@ -115,7 +115,7 @@
       <file leaf-file-name="BookDTO.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/dto/BookDTO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="680">
+            <state line="14" column="24" selection-start="249" selection-end="249" vertical-scroll-proportion="0.5748792" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
@@ -962,7 +962,7 @@
       <workItem from="1407381583014" duration="18418000" />
       <workItem from="1407404591506" duration="625000" />
       <workItem from="1407405617118" duration="830000" />
-      <workItem from="1407665527710" duration="7476000" />
+      <workItem from="1407665527710" duration="7488000" />
     </task>
     <task id="LOCAL-00001" summary="master branch&#10;">
       <created>1407406139651</created>
@@ -976,18 +976,22 @@
       <created>1407674213826</created>
       <updated>1407674213826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="master branch&#10;">
+      <created>1407674252761</created>
+      <updated>1407674252761</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27349000" />
+    <option name="totallyTimeSpent" value="27361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1319" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890856" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1396,7 +1400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/dto/BookDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="680">
+        <state line="14" column="24" selection-start="249" selection-end="249" vertical-scroll-proportion="0.5748792" vertical-offset="0" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
