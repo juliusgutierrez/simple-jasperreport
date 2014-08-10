@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd257e8-7dbb-4f0e-be89-c9a5d3441058" name="Default" comment="master branch&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jasper/model/Book.java" />
-      <change type="DELETED" beforePath="C:\Users\Julius\jasperreport\src\main\java\com\jasper\service\DataSourceServiceCore.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Julius\jasperreport\src\main\java\com\jasper\service\BookServiceCoreImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/jasper/coreImpl/BookServiceCoreImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java" afterPath="$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jasper/persistenceCoreImpl/BookCoreImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/jasper/persistenceCoreImpl/BookCoreImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jasper/dto/BookDTO.java" afterPath="$PROJECT_DIR$/src/main/java/com/jasper/dto/BookDTO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jasper/controller/JasperController.java" afterPath="$PROJECT_DIR$/src/main/java/com/jasper/controller/JasperController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jasper-views.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jasper-views.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasperreport.iws" />
@@ -82,10 +74,9 @@
       <file leaf-file-name="JasperController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/controller/JasperController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1275">
+            <state line="26" column="0" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1309">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#991#1007#0" expanded="true" />
+                <element signature="e#1042#1058#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,10 +85,8 @@
       <file leaf-file-name="BookCore.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,7 +115,7 @@
       <file leaf-file-name="BookDTO.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/dto/BookDTO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.36690646" vertical-offset="0" max-vertical-offset="680">
+            <state line="9" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
@@ -973,24 +962,28 @@
       <workItem from="1407381583014" duration="18418000" />
       <workItem from="1407404591506" duration="625000" />
       <workItem from="1407405617118" duration="830000" />
-      <workItem from="1407665527710" duration="7411000" />
+      <workItem from="1407665527710" duration="7436000" />
     </task>
     <task id="LOCAL-00001" summary="master branch&#10;">
       <created>1407406139651</created>
       <updated>1407406139651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="master branch&#10;">
+      <created>1407674197964</created>
+      <updated>1407674197964</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27284000" />
+    <option name="totallyTimeSpent" value="27309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1319" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32824427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890856" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1004,7 +997,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42920354" sideWeight="0.50038373" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32366413" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32366413" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1035,11 +1028,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
     <MESSAGE value="master branch&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="master branch&#10;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1053,8 +1048,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="48" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="510">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#701#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#728#737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1062,9 +1057,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="18" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,8 +1089,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="1" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="344" max-vertical-offset="799">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#991#1007#0" expanded="true" />
+            <element signature="e#1042#1058#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1136,8 +1128,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="48" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="510">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#701#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#728#737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1145,9 +1137,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="18" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,8 +1169,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="1" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="344" max-vertical-offset="799">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#991#1007#0" expanded="true" />
+            <element signature="e#1042#1058#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1219,8 +1208,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="48" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="510">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#701#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#728#737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1228,9 +1217,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="18" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1262,8 +1249,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="1" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="344" max-vertical-offset="799">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#991#1007#0" expanded="true" />
+            <element signature="e#1042#1058#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1358,18 +1344,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="37" selection-start="578" selection-end="590" vertical-scroll-proportion="0.3325792" vertical-offset="278" max-vertical-offset="731">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#701#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#728#737#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/controller/JasperController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1275">
+        <state line="26" column="0" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1309">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#991#1007#0" expanded="true" />
+            <element signature="e#1042#1058#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1384,9 +1369,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/persistenceCore/BookCore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1402,7 +1385,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jasper/dto/BookDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.36690646" vertical-offset="0" max-vertical-offset="680">
+        <state line="9" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
